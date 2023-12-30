@@ -315,3 +315,10 @@ a:hover {
     display: flex;
     justify-content: space-between;
 }
+
+.notice {
+    border-style: none;
+    background-color: #7b5f8e;
+    padding: 10px;
+    border-radius: 10px;
+}
